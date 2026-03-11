@@ -10,8 +10,7 @@
 
 <h1 align="center">Somnath Mahato</h1>
 
-<h3 align="center">
-Tech Blogger | Content Creator 
+<h3 align="center">Web Designer | Frontend Developer | Tech Blogger | Content Creator 
 </h3>
 
 <p align="center">
