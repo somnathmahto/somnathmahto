@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/Z1fMPj8G/306e363c-34dd-4a8c-a97b-2a403da61b7f.png" width="160" style="border-radius:50%;" alt="Somnath Mahato Profile"/>
+  <img src="https://i.ibb.co/gLsBXJPw/20260312-112617.png" width="160" style="border-radius:50%;" alt="Somnath Mahato Profile"/>
 </p>
 
 <h1 align="center">Somnath Mahato</h1>
